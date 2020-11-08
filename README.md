@@ -1,1 +1,1 @@
-Software University course exercises
+Software University courses and exercises
