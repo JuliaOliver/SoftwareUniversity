@@ -1,2 +1,17 @@
-Software University courses and exercises
-![alt text](https://camo.githubusercontent.com/982926c013b95556197bcba404465ffd3ad5ecdb0cd76ea87e6828348570ed7c/687474703a2f2f696e6e6f766174696f6e73746172746572626f782e62672f77702d636f6e74656e742f75706c6f6164732f323031362f30352f536f6674756e695f6c6f676f5f74726173706172656e742e706e67)
+# <p align="center"> Courses, projects and exercises from SoftUni <p>
+  
+<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
+
+[logo]: http://innovationstarterbox.bg/wp-content/uploads/2016/05/Softuni_logo_trasparent.png "Logo Title Text 2"
+
+<br/>
+<br/>
+<br/>
+
+<h2> Certificates </h2>
+
+|**Courses**|**Certificates**| 
+|---|---|
+|<a href="https://softuni.bg/trainings/2777/programming-basics-with-python-february-2020" > Programming Basics with Python </a>   | <a href="https://softuni.bg/certificates/details/78723/5049f4ba"> Link</a> |
+|<a href="https://softuni.bg/trainings/2833/python-fundamentals-may-2020"> Python Fundamentals  </a>| <a href="https://softuni.bg/certificates/details/85513/f628d7ea"> Link</a> |
+|<a href="https://softuni.bg/trainings/3013/python-advanced-september-2020"> Python Advanced  </a>| <a href="https://softuni.bg/certificates/details/90060/00507e13"> Link</a> |
