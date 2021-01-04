@@ -1,7 +1,6 @@
 password_to_change = input()
 
 command = input()
-# password_to_change = password_to_change
 
 while command != "Done":
     if command == "TakeOdd":
