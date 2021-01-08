@@ -15,3 +15,4 @@
 |<a href="https://softuni.bg/trainings/2777/programming-basics-with-python-february-2020" > Programming Basics with Python </a>   | <a href="https://softuni.bg/certificates/details/78723/5049f4ba"> Link</a> |
 |<a href="https://softuni.bg/trainings/2833/python-fundamentals-may-2020"> Python Fundamentals  </a>| <a href="https://softuni.bg/certificates/details/85513/f628d7ea"> Link</a> |
 |<a href="https://softuni.bg/trainings/3013/python-advanced-september-2020"> Python Advanced  </a>| <a href="https://softuni.bg/certificates/details/90060/00507e13"> Link</a> |
+|<a href="https://softuni.bg/trainings/3014/python-oop-october-2020"> OOP  </a>| <a href="https://softuni.bg/certificates/details/94908/e1622a4e"> Link</a> |
